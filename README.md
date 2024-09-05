@@ -7,4 +7,4 @@
   Experiment parameter tuning record：0905.pdf
 
   
-  AFC_Code：0905.py
+  Average_correlation_Code：Average_correlation.py

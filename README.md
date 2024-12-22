@@ -7,7 +7,7 @@
   Code：code.zip
 
 
-  Experiment parameter tuning record：0905.pdf
+  Experiment parameter tuning record：Parameter adjustment experiment result record.pdf
 
 
   The model weighing file used in the article experiment is obtained in the following Baidu network disk link:
